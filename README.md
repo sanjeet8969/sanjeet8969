@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sanjeetskg1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeetskg1212" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanjeetskg1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeet8969" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjeets8969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjeets8969" height="30" width="40" /></a>
 </p>
 
